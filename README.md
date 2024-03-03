@@ -1,8 +1,8 @@
 # ESP32_w_ArduinoIDE
  Basic scripts to run ESP32 with Arduino IDE
 
- I've purchased a simple development board from AliExpress to step into the magical world of ESP32. This development board includes a relay, an LED, and a button in addition to the ESP32-WROOM-32E module.
- This repository includes the first scripts that I wrote to learn ESP32 by using ArduinoIDE.
+ I've purchased a simple development board from AliExpress to step into the magical world of ESP32. [The development board](http://www.chinalctech.com/cpzx/1/515.html) includes a relay, an LED, and a button in addition to the ESP32-WROOM-32E module.
+ This repository includes the scripts that I wrote to learn ESP32 by using ArduinoIDE.
 
 ## How to install the Arduino-ESP32 support?
 Follow the steps given in the link below and select ESP32 Dev Module as the board in Arduino IDE:
