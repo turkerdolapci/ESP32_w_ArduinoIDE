@@ -1,5 +1,5 @@
 /*
-  Blink_Relay_LED
+  01_Blink_Relay_LED
 
   This example turns ON and OFF the LED and the Relay alternatingly included in the 
   LCTECH ESP32 SINGLE RELAY MODULE X1 Development Board.
